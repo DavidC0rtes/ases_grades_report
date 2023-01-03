@@ -1,6 +1,6 @@
 # ASES Grades report #
 
-TODO Describe the plugin shortly here.
+Local plugin for retrieving a cohort's grades via a consumable web service.
 
 TODO Provide more detailed description here.
 
